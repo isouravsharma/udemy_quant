@@ -1,0 +1,6 @@
+Build buy signal 
+stop loss 
+trailing stop loss 
+cost to take trade
+tax short term
+compare with index 
